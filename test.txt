@@ -1,4 +1,1 @@
-Dette er en test.
-
-
-Dette er en ny linje.
+Fyller filen med mer meningsfullt innhold.
