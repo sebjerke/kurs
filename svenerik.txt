@@ -1,1 +1,3 @@
 Dette en en ny fil.
+
+Enda en linje.
